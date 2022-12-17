@@ -1,6 +1,6 @@
 ![Github](https://user-images.githubusercontent.com/64391274/206931805-33d163dc-b609-4d14-8302-e863cd0c40ee.png)
 
-it needs to allign and add some features
+it needs to allign and add some features(not functional)
 
 # DocKeeper
 Extension to help you find documents needed to fill online forms
